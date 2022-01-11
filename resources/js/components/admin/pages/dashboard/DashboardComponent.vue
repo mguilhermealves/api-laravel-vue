@@ -1,6 +1,6 @@
 <template>
     <div>
-        <router-view></router-view>
+        <h1>Home Dashboard</h1>
     </div>
 </template>
 

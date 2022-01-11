@@ -15,7 +15,7 @@ import store from './vuex/store'
  * components globais
  */
 
-Vue.component('app-component', require('./components/App'). default)
+Vue.component('admin-component', require('./components/admin/AdminComponent'). default)
 
 const app = new Vue({
     router,

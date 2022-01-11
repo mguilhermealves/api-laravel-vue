@@ -73,7 +73,7 @@
 <body>
     <div id="app" class="flex-center position-ref full-height">
 
-        <app-component></app-component>
+        <router-view></router-view>
 
     </div>
 
